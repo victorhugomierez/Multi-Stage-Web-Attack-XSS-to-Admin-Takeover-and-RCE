@@ -1,4 +1,4 @@
-#  Executive Summary
+#  Summary
 This laboratory documents a complete penetration testing exercise, transitioning from initial stealth reconnaissance to a multi-stage compromise. The attack chain involved bypassing network defenses, performing directory discovery, and exploiting a DOM-based XSS vulnerability. This led to a lateral movement by compromising a Moderator account and a final vertical privilege escalation to Administrator, achieving full system control.
 
 ## Phase-by-Phase Methodology
